@@ -1,0 +1,10 @@
+cohere
+SpeechRecognition 
+Ultralytics
+textblob
+numpy
+cv2
+pandas
+tensorflow
+h5py
+pytesseract
